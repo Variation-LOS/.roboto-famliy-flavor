@@ -5,6 +5,10 @@
 
 Original font variable axis values:   
 `GRAD: -68, Width: 60, Slant: 0, XOPQ: 96, YOPQ: 79, XTRA: 468, YTUC: 712, YTLC: 570, YTAS: 750, YTDE: -203, YTFI: 738`
+
+> [!IMPORTANT]
+> This font is a dedicated font and is only used for special scenarios. Therefore, optimizations have been made for the "special scenarios" here, making it no longer suitable for text typesetting. Please forgive any omissions.
+
 ## Modify
 Compared with the original Roboto Flex, this font has several modification points:
 - **Rounded `G`**;
